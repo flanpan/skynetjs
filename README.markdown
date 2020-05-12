@@ -1,3 +1,14 @@
+emsdk list --old
+
+使用emsdk安装
+binaryen-tag-1.36.14-64bit
+emscripten-1.36.14
+fastcomp-clang-e1.36.14-64bit
+
+------------------------------------
+
+
+
 
 lua.vm.js
 =========
